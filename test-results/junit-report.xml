@@ -1,0 +1,10 @@
+<testsuites id="" name="" tests="1" failures="0" skipped="0" errors="0" time="5.965867">
+<testsuite name="loginTest.spec.js" timestamp="2024-11-06T03:10:58.819Z" hostname="chromium" tests="1" failures="0" skipped="0" time="4.415" errors="0">
+<testcase name="DEV Environment Tests › TC1 | should login and navigate to the dashboard in DEV environment" classname="loginTest.spec.js" time="4.415">
+<properties>
+<property name="test_id" value="TC1">
+</property>
+</properties>
+</testcase>
+</testsuite>
+</testsuites>
